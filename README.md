@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/thomasfr/Timeliner.Index.png)](http://travis-ci.org/thomasfr/Timeliner.Index)
 Timeliner.Index
 ===============
 
